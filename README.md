@@ -41,7 +41,7 @@ El proyecto fue creado para:
 
 ## Instalación
 
-Este proyecto se distribuye como **APK de prueba**.
+Este proyecto se distribuye como **APK**.
 
 1. Copia el archivo APK a un dispositivo Android.
 2. Habilita la instalación desde fuentes desconocidas.
